@@ -2,7 +2,7 @@
 body
 {
     outline: 1px solid black;
-    font-family: Roboto;
+    font-family: Roboto, sans serif, serif;
 }
 
 #header,
