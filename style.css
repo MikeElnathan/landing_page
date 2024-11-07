@@ -106,6 +106,7 @@ li
 
 #info-img
 {
+    flex-shrink: 0;
     height: 35vh;
     width: 15vw;
     border-radius: 20px;
